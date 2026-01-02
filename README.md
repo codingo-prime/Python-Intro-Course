@@ -37,4 +37,4 @@
 3. ریپازیتوری را کلون کنید:
    
    ```bash
-   git clone https://github.com/CodingoPrime/python-beginner-course.git
+   git clone https://github.com/codingo-prime/Python-Intro-Course.git
